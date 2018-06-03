@@ -1,9 +1,8 @@
 ---
-title: Juzer Zarif
+title: About
 order: 1
-#cover-photo: /images/about-bg.jpg
-#cover-photo-alt: gradient
 icon: fa-info-circle
+auto-header: Juzer Zarif
 ---
 
 <a class="image featured" href="#"><img src="/images/about-bg.jpg" alt="about banner" /></a>
