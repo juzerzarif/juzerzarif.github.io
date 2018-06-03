@@ -29,6 +29,7 @@ facebook_url: http://facebook.com/juzerzarif
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
 plugins:
   - jekyll-feed
