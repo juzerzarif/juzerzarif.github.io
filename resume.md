@@ -2,7 +2,7 @@
 title: Resume
 order: 2
 icon: fa-file
-redirect: /Juzer Zarif - Resume.pdf
+redirect: /Resume (1).pdf
 ---
 
 <!DOCTYPE html>
